@@ -1,6 +1,8 @@
 ## free-netflix
-> [!NOTE]
-For Educational Purpose Only
+>[!TIP]
+>100% Working
+>Watch Any Netflix Movie Series For Free On This Website.
+
 
 
 This is the website where anyone can watch netflix for free which contain all contents of netflix for free and let you watch ads free series and movie with online streaming freature.
