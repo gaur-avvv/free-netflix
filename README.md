@@ -25,8 +25,27 @@ Verification: Recommends checking links on VirusTotal before use.
 >[!TIP]
 >100% Working
 >Watch Any OTTs Movie Series For Free On These Website.
+>
 
+https://vidbox.vc
 
+https://www.plex.tv/watch-free/
+
+https://pluto.tv/
+
+https://tubitv.com/
+
+http://therokuchannel.roku.com/
+
+https://fawesome.tv/
+
+https://play.xumo.com/
+
+https://athome.fandango.com/
+
+https://wooflix.io/
+
+https://dulo.cx/
 
 https://streamimdb.ru
 
@@ -38,9 +57,9 @@ https://vidbox.cc/home [Next Level Streaming Contain Overall World OTTs]
 
 https://watch-v2.autoembed.cc/
 
-[NetMirror](https://net20.cc)
+[NetMirror](https://net52.cc)
 
-[RiveStream](https://rivestream.org)  [_Use [private dns](https://github.com/gaur-avvv/free-netflix/wiki/Private-DNS) to access this website_]
+[RiveStream](https://rivestream.ru)  [_Use [private dns](https://github.com/gaur-avvv/free-netflix/wiki/Private-DNS) to access this website_]
 ```
 one.one.one.one
 dns.adguard.com
@@ -77,6 +96,12 @@ https://flashmovies.xyz/
 https://zonefilm.media/
 
 https://dramanice.click/
+
+https://flurzicinema.com/
+
+https://www.sling.com/freestream
+
+
 
 This is the website where anyone can watch netflix for free which contain all contents of netflix for free and let you watch ads free series and movie with online streaming freature.
 
